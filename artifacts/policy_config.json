@@ -1,0 +1,24 @@
+{
+  "approve_threshold": 0.5421231985092163,
+  "reject_threshold": 0.5721231698989868,
+  "review_band": 0.03,
+  "lgd": 0.45,
+  "net_margin": 0.1,
+  "operating_cost_rate": 0.01,
+  "review_cost_rate": 0.003,
+  "risk_band_edges": [
+    0.0,
+    0.03,
+    0.07,
+    0.15,
+    0.3,
+    1.0
+  ],
+  "risk_band_labels": [
+    "Very Low Risk",
+    "Low Risk",
+    "Moderate Risk",
+    "High Risk",
+    "Very High Risk"
+  ]
+}
